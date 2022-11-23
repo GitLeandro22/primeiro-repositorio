@@ -28,3 +28,28 @@ Para copiar o código em HTML:
 
 </html>
 ```
+```
+Style Css
+Body {
+    background: #CCCCCC
+}
+#banner {
+    width:100%
+}
+
+h1{
+        text-align: center;
+    }
+
+
+ p {
+         text-align:center; 
+    }
+#missao{
+        font-size:20px
+    }
+
+em strong {
+        color:red;
+    }
+```
